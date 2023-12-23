@@ -61,4 +61,4 @@ Siga os passos abaixo ou clique aqui:
 5. Clique no botão “Próximo duelo” para revelar a carta do computador e determinar o vencedor.
 6. Repita as etapas 3 a 5 até ficar satisfeito ou reinicie o duelo.
    
-Divirta-se jogando o jogo Potencia Tech IFOO!
+Divirta-se jogando o jogo YU-GU-OH - Jokenpô.
