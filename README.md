@@ -2,7 +2,7 @@
 
 
 ## Visão geral
-Bem-vindo ao jogo YU-GU-OH - Jokenpô. Este jogo foi desenvolvido como projeto LAB do Bootcamp Potencia Tech IFOOD realizado pela Digital Innovation One durante. Este README fornece uma visão geral abrangente da base de código e das funcionalidades do jogo.
+Bem-vindo ao jogo YU-GU-OH - Jokenpô. Este jogo foi desenvolvido como projeto LAB do Bootcamp Potencia Tech IFOOD realizado pela Digital Innovation One. Este README fornece uma visão geral abrangente da base de código e das funcionalidades do jogo.
 
 ## Índice
 * Introdução
