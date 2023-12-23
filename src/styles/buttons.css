@@ -8,7 +8,7 @@
 	/* hide button default stuff */
 	background-color: Transparent;
     background-repeat:no-repeat;
-    border: none;
+    border: none; 
     overflow: hidden;
     outline:none;
 
